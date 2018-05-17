@@ -61,5 +61,5 @@ typings/
 .next
 
 .idea
-
+data
 ~*.docx
