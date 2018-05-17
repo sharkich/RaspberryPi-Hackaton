@@ -1,0 +1,14 @@
+{
+  "name": "RaspberryPi3PlusNodeServer",
+  "version": "1.0.0",
+  "description": "Raspberry Pi 3 Plus NodeJS Server",
+  "main": "backend.js",
+  "scripts": {
+    "start": "node backend.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "azure-iothub": "^1.3.0"
+  }
+}

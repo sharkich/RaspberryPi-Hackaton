@@ -1,0 +1,15 @@
+{
+  "name": "RaspberryPi3PlusNodeClient",
+  "version": "1.0.0",
+  "description": "Raspberry Pi 3 Plus NodeJS Client",
+  "main": "client.js",
+  "scripts": {
+    "start": "node client.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "azure-iot-device": "^1.4.1",
+    "azure-iot-device-mqtt": "^1.4.1"
+  }
+}
